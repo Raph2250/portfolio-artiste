@@ -1,1 +1,12 @@
+:root {  /*(représente la racine du document HTML.)*/
 
+    --cream: #f2eee5;
+    --paper: #e8e1d4;
+    --black: #171717;            
+    --red: #8f3028;
+    --orange: #b87935;
+    --gray: #6e6a63;
+    --white: #faf8f3;
+    
+   /* (--cream,--paper sont des variables CSS.L'intérêt est de pouvoir changer une couleur une seule fois et de la retrouver partout où elle est utilisée.)*/
+}
