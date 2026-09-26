@@ -10,3 +10,11 @@
     
    /* (--cream,--paper sont des variables CSS.L'intérêt est de pouvoir changer une couleur une seule fois et de la retrouver partout où elle est utilisée.)*/
 }
+
+* {  /*( * Tous les éléments HTML.)*/
+
+		margin: 0;   /*(supprime les marges par défaut et les espacements intérieurs par défaut.)*/
+		padding: 0;
+		box-sizing: border-box; /*(permet de mieux contrôler la taille réelle des éléments.)*/
+	}
+
